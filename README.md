@@ -1,5 +1,5 @@
 # simple-proxy
-
+https://steady-dieffenbachia-c4667a.netlify.app/
 Simple reverse proxy to bypass CORS, used by [movie-web](https://movie-web.app).
 Read the docs at https://docs.movie-web.app/proxy/introduction
 
